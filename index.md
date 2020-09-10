@@ -1,39 +1,14 @@
-## A hobbyist cyberpunk
+## Content
 
-You can use the [editor on GitHub](https://github.com/CryptoJanne/cryptojanne.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This site will contain stuff that i explore and learn. I'll post in blog format, dont hesitate to reach out via Twitter.
 
-[Link to another page](./another-page.html).
+I am currently studying computer engineering at Malmö University and therefor i have limited time to dive into things i otherwise would love to do.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+But who does not love spending all their time doing math?
 
-### Markdown
+<!--- [Link to another page](./another-page.html). -->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Blog entries
 
-```markdown
-Syntax highlighted code block
+*Italic* The first entry i am working on involves Ethereum and what we now call DeFi(Decentralized Finance). Hopefully i will reach and end sooner than later. But in the world of Crypto, one never knows.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CryptoJanne/cryptojanne.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
