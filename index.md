@@ -6,7 +6,7 @@ I am currently studying computer engineering at Malmö University and therefor i
 
 But who does not love spending all their time doing math?
 
-<!--- [Link to another page](./another-page.html). -->
+[Link to another page](./aboutme.html).
 
 ### Blog entries
 
