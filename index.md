@@ -9,7 +9,7 @@ But who does not love spending all their time doing math?
 
 ### Blog entries
 
-[Link to another page](./aboutme.html).
+1. [About me](./aboutme.html).
 
 *The first entry(after i have introduced myself) i am working on involves Ethereum and what we now call DeFi(Decentralized Finance). Hopefully i will reach and end sooner than later. But in the world of Crypto, one never knows.*
 
