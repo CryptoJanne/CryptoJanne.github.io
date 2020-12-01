@@ -32,7 +32,7 @@ I am not sure how i feel about it, but it definetly is in the direction that i a
 
 The fire effect is what i am most proud of. This picture does not make it justice at all.When i started designing it i was going for something big. Something that gave a lot of feedback to the player when they fire, but i did not want to add camera shake. Mind you, this is just for the m4a1. Shotgun and other weapons will have other effects of course!
 
-And thats it for this time around! I am working on the game almost every day, and can always be reached in my very lonely discord https://discord.gg/z9z5KB9dRR . There is so much more that i want to show you, but you got to wait some more. I am sorry!!!
+And thats it for this time around! I am working on the game almost every day, and can always be reached in my very lonely [Discord](https://discord.gg/z9z5KB9dRR). There is so much more that i want to show you, but you got to wait some more. I am sorry!!!
 
 
 [back](./)

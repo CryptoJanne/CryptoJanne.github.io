@@ -10,6 +10,6 @@ But who does not love spending all their time doing math?
 ### Blog entries
 
 1. [About me](./aboutme.html).
+2. [Devlog 1 HoD3D](./HoD3D.html).
 
-*The first entry(after i have introduced myself) i am working on involves Ethereum and what we now call DeFi(Decentralized Finance). Hopefully i will reach and end sooner than later. But in the world of Crypto, one never knows.*
 
